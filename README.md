@@ -12,4 +12,5 @@ This project is a simple responsive website created as part of the IEEE LINK CAM
 2. Open `index.html` in any web browser
 
 ## Live Demo
-(To be added after deployment)
+https://assassinlegendyt-wq.github.io/link-camp-by-Nandana-S/
+
